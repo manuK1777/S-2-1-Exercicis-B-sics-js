@@ -59,12 +59,3 @@ const delayedMessage = message => {
 delayedMessage("soy un mensaje después de 3 segundos");
 
 
-
-//Bloc 1.2: Operador ternari
-delayedMessage("Bloc 1.2: Operador ternari")
-
-//nivell 1
-
-//Exercici 1
-delayedMessage("Exercici 1: ");
-
