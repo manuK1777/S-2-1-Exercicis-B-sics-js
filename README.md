@@ -17,6 +17,7 @@ Actividad 1 del Sprint 2 del curso de Angular de IT Academy. Resolución de ejer
 ## 🛠️ Ejecución
 
 **✔️ Paso 1:** Clonar el repositorio en local
-**✔️ Paso 2:** Abrir el archivo index.html y el script.js
+**✔️ Paso 2:** Abrir el archivo index.html y los script.js.Cada script tiene un bloque de   
+               ejercicios, descomentar cada script en el html para acceder a los diferentes bloques. Seguir las indicaciones comentadas.
 **✔️ Paso 3:** Ejecutar el archivo HTML en un navegador web
 **✔️ Paso 4:** Abrir el modo inspeccionar (F12) y observa los resultados en console 
