@@ -15,11 +15,10 @@ function print(some) {
 
 function procesar(n, callback) {
   let message = `És el nombre: ${n}`;
-  print(message);
+  callback(message);
 }
 
 procesar(237, print);
-
 
 
 //Exercici 2
@@ -62,7 +61,7 @@ esperarISaludar("Pep", mostrarSaludo);
 
 //Exercici 4
 
-// DESCOMENTAR PARA SEGUIR
+////DESCOMENTAR PARA SEGUIR
 
 // console.log("Exercici 4: ");
 
@@ -83,7 +82,7 @@ esperarISaludar("Pep", mostrarSaludo);
 
 // //NIVELL 3
 
-// //Exercici 5
+////Exercici 5
 // console.log("Exercici 5: ");
 
 // function processarCadena(cadena, miiCallback) {

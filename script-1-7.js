@@ -7,7 +7,7 @@
 // //Exercici 1
 console.log("Exercici 1: ");
 
-const promesaSaludo = new Promise((resolve, reject) => {
+const promesaSaludo = new Promise((resolve) => {
     setTimeout(() => {
     resolve("Hola, món");
   }, 2000);
@@ -52,7 +52,7 @@ promesaSaludo.then((saludo) => {
 // console.log("Exercici 4: ");
 
 // //Promise Exercici 1
-// const promesaSaludo = new Promise((resolve, reject) => {
+// const promesaSaludo = new Promise((resolve) => {
 //   setTimeout(() => {
 //     resolve("Hola, món");
 //   }, 2000);
@@ -65,6 +65,7 @@ promesaSaludo.then((saludo) => {
 
 // capturarSaludo();
 
+
 //COMENTAR EL EJERCICIO 4 Y DESCOMENTAR EL 5 PARA SEGUIR
 
 //NIVELL 2
@@ -72,8 +73,8 @@ promesaSaludo.then((saludo) => {
 //Exercici 5
 // console.log("Exercici 5: ");
 
-// //Promise Exercici 1
-// const promesaSaludo = new Promise((resolve, reject) => {
+// ////Promise Exercici 1
+// const promesaSaludo = new Promise((resolve) => {
 //     setTimeout(() => {
 //       resolve("Hola, món");
 //     }, 2000);
@@ -89,6 +90,7 @@ promesaSaludo.then((saludo) => {
 // };
 
 //   capturarSaludo();
+
 
 //COMENTAR EL EJERCICIO 5 Y DESCOMENTAR EL 6 PARA SEGUIR
 

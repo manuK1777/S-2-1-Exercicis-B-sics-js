@@ -70,8 +70,6 @@ muestraPlanetas(...arrayX);
 
 
 
-
-
 //Exercici 6
 console.log("Exercici 6");
 

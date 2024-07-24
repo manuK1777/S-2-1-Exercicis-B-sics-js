@@ -20,7 +20,7 @@ class Person {
     this.name = name;
   }
 
-  greet = (name) => console.log(`Hola, ${this.name}.`);
+  greet = () => console.log(`Hola, ${this.name}.`);
 }
 
 const person = new Person("Joan");
